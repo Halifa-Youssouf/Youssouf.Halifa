@@ -4,6 +4,7 @@ Bienvenue sur mon portfolio.
 Je suis Halifa Youssouf, Data Analyst, passionné par l’analyse et la valorisation des données.
 Avec une solide formation en Ingénierie Statistique, Économique et Financière, j’ai développé des compétences pratiques en Python, SQL et Power BI à travers un stage à l’ANSD et des projets personnels de suivi des ventes.
 Je mets ma rigueur et mon expertise technique au service de projets concrets en Business Intelligence et Data Analytics, afin de produire des analyses pertinentes et des dashboards décisionnels de qualité.
+
 ---
 
 ## 💼 Expériences Professionnelles
