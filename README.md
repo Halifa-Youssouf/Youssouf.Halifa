@@ -66,7 +66,7 @@ Je souhaite mettre mes compétences techniques et ma rigueur au service de **pro
 
 ## 🚀 Contact
 - LinkedIn] : https://www.linkedin.com/in/youssouf-halifa-ba73a63a0/  
-- Email : birna337gmail.com  
+- Email : birna337@gmail.com  
 
 ---
 
