@@ -66,7 +66,7 @@ Je mets ma rigueur et mon expertise technique au service de projets concrets en 
 
 ## 🚀 Contact
 - LinkedIn] : https://www.linkedin.com/in/youssouf-halifa-ba73a63a0/  
-- Email : birna337@gmail.com  
+- Email : halifayoussouf96@gmail.com  
 
 
 
