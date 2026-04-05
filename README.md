@@ -5,7 +5,7 @@ Je suis Halifa Youssouf, Data Analyst, passionné par l’analyse et la valorisa
 Avec une solide formation en Ingénierie Statistique, Économique et Financière, j’ai développé des compétences pratiques en Python, SQL et Power BI à travers un stage à l’ANSD et des projets personnels de suivi des ventes.
 Je mets ma rigueur et mon expertise technique au service de projets concrets en Business Intelligence et Data Analytics, afin de produire des analyses pertinentes et des dashboards décisionnels de qualité.
 
----
+
 
 ## 💼 Expériences Professionnelles
 
@@ -18,7 +18,7 @@ Je mets ma rigueur et mon expertise technique au service de projets concrets en 
 - Gestion des opérations comptables : TVA, trésorerie, rapprochements bancaires.  
 - Contribution au lettrage comptable et à la préparation de rapports financiers périodiques.  
 
----
+
 
 ## 🛠 Compétences Techniques
 
@@ -26,7 +26,7 @@ Je mets ma rigueur et mon expertise technique au service de projets concrets en 
 - **Analyse** : Création de KPI, dashboards dynamiques, reporting automatisé  
 - **Data Management** : Nettoyage, structuration, modélisation, documentation  
 
----
+
 
 ## 📊 Projets Personnels
 
@@ -40,7 +40,7 @@ Je mets ma rigueur et mon expertise technique au service de projets concrets en 
 - Mise en place de KPI pour l’analyse comparative mensuelle  
 - Automatisation du reporting pour faciliter la **prise de décision**
 
----
+
 
 ## 🎓 Formation
 
@@ -56,18 +56,18 @@ Je mets ma rigueur et mon expertise technique au service de projets concrets en 
 - **Séminaire : Gestion de la relation client et techniques de vente**  
   Business Communication Center | Oct. 2025  
 
----
+
 
 ## 🌐 Langues
 - Français : Courant  
 - Anglais : Débutant  
 
----
+
 
 ## 🚀 Contact
 - LinkedIn] : https://www.linkedin.com/in/youssouf-halifa-ba73a63a0/  
 - Email : birna337@gmail.com  
 
----
+
 
 *“Transformer les données en décisions éclairées et à forte valeur ajoutée.”*
